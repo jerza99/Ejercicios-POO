@@ -1,6 +1,6 @@
    <!DOCTYPE html>
    <body>
-        <a href="index.php">Inicio</a>
+        <a href="index.php">Inicio</a> <br> <br> <br>
    </body>
    </html>
    <?php
